@@ -28,7 +28,7 @@
     "bluebird": "3.5.0",
     "body-parser": "^1.17.1",
     "express": "^4.15.2",
-    "node-fetch": "^1.6.3",
+    "node-fetch": "^2.6.1",
     "node-telegram-bot-api": "^0.28.0",
     "raven": "^2.2.1",
     "redis": "2.7.1",
